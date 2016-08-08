@@ -1,0 +1,1 @@
+Liferay.Service.register("Liferay.Service.GB", "com.liferay.docs.guestbook.service", "guestbook-portlet");
